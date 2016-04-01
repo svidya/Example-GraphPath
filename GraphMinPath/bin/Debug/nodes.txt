@@ -1,0 +1,10 @@
+1,Apple
+2,Intel
+3,Google
+4,IBM
+5,Paypal
+6,eBay
+7,Microsoft
+8,Yahoo
+9,Amazon
+10,Facebook
